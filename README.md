@@ -14,7 +14,7 @@ This repository contains a set of Python scripts and files to scrape product inf
 2. Open a terminal or command prompt and navigate to the project directory.
 
 3. Install the required Python packages by running the following command:
-`ip install -r requirements.txt`
+`pip install -r requirements.txt`
 
 ## Usage
 
