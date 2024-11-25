@@ -9,6 +9,7 @@ dist/
 build/
 *.egg-info/
 *.egg
+scraper.ipynb
 
 # Jupyter Notebook
 .ipynb_checkpoints/
